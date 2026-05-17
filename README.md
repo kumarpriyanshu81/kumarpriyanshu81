@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kumarpriyanshu81/kumarpriyanshu81/main/banner.png" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 
 <h3 align="center">
