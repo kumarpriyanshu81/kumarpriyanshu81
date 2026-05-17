@@ -1,16 +1,49 @@
-## Hi there 👋
+# Priyanshu Kumar
 
-<!--
-**kumarpriyanshu81/kumarpriyanshu81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Application Security | Offensive Security | Security Automation
 
-Here are some ideas to get you started:
+VAPT Analyst currently focused on transitioning into Application Security and Security Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+- Security automation
+- Reconnaissance engineering
+- API security
+- Product security
+- Cloud security fundamentals
+
+---
+
+## Featured Projects
+- Recon Platform (in progress)
+- Android security research
+- Security tooling & automation
+
+---
+
+## Tech Stack
+- Python
+- Bash
+- Linux
+- Burp Suite
+- Docker
+- HTTPX Toolkit
+- Subfinder
+- Nuclei
+
+---
+
+## Currently Learning
+- Product Security
+- OAuth/OIDC
+- Secure architecture
+- Cloud security
+- Security engineering
+
+---
+
+## Connect
+- LinkedIn
+- Medium
+- Hack The Box
